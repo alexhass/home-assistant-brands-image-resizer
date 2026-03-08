@@ -53,7 +53,6 @@ These sizes and filenames are defined in the `FILES` list inside `scripts/brands
 
 - If you see `Source image not found`, verify the `source` path you passed is correct and readable.
 - If Pillow import fails, ensure you installed it into the same Python environment you use to run the script.
-- To inspect or change the sizes/filenames edit the `FILES` array inside `scripts/brands_image_resizer.py`.
 
 ---
 
